@@ -1,6 +1,6 @@
 # Deep learning-based Synthetic-CT-free Photon Dose Calculation
 
-Framework for training LSTM and U-Net-based dose calculation model for photon dose calculation on 0.35T MRI in prostate cancer cases.
+Framework for training LSTM and U-Net-based models for photon dose calculation on 0.35T MRI in prostate cancer treatment.
 
 Fan Xiao
 LMU Munich
